@@ -4,7 +4,8 @@
   "description": "Discord Bot for Koyeb",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "start:watch": "node watch.js"
   },
   "repository": {
     "type": "git",
